@@ -3,3 +3,6 @@ link dowload Software Cascade trainer GUI: https://drive.google.com/file/d/1VmDH
 
 file main.py is file test object detect after training
 
+VIDEO YOUTUBE
+https://www.youtube.com/watch?v=ShGf57fQopw
+
